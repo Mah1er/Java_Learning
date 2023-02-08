@@ -1,0 +1,105 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ifReverse",
+      "request": "launch",
+      "mainClass": "Practice.ifReverse",
+      "projectName": "Java_Learning_c1335b7b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ifReverse",
+      "request": "launch",
+      "mainClass": "Practice.ifReverse",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuildJoiner",
+      "request": "launch",
+      "mainClass": "String.BuildJoiner",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch StringDemo",
+      "request": "launch",
+      "mainClass": "String.TinyProject.StringDemo",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch method",
+      "request": "launch",
+      "mainClass": "String.method",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch string",
+      "request": "launch",
+      "mainClass": "String.string",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch GameTest",
+      "request": "launch",
+      "mainClass": "TinyProject.GameTest",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch inout",
+      "request": "launch",
+      "mainClass": "inout",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch input",
+      "request": "launch",
+      "mainClass": "input",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch output_prac",
+      "request": "launch",
+      "mainClass": "output_prac",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "JL_76fe0e62"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "JL_76fe0e62"
+    }
+  ]
+}
